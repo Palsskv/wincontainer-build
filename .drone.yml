@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: microsoft/nanoserver
+    commands:
+      - pleasefail
